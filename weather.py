@@ -2,6 +2,7 @@
 '''
 Name:    Sheldon Codling
 CNumber: C0596137
+Date: February 22nd, 2022
 '''
 
 from tkinter.constants import CENTER
